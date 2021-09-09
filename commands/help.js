@@ -38,7 +38,7 @@ module.exports = {
   
   [✨ Support Server](${
     client.botconfig.SupportServer
-  }) | By [SapSap](https://www.youtube.com/channel/UCZS5Za1NcgWbVTGAvXOudJQ)`);
+  }) | By [Nandooh](https://www.youtube.com/channel/UCZS5Za1NcgWbVTGAvXOudJQ)`);
     if (!args[0]) message.channel.send(Embed);
     else {
       let cmd =
@@ -119,7 +119,7 @@ SlashCommand: {
   Discord Music Bot Version: v${require("../package.json").version}
   [✨ Support Server](${
     client.botconfig.SupportServer
-  }) | [GitHub](https://github.com/SudhanPlayz/Discord-MusicBot) | By [SudhanPlayz](https://github.com/SudhanPlayz)`);
+  }) | By [Nandooh](https://www.youtube.com/channel/UCZS5Za1NcgWbVTGAvXOudJQ)`);
       if (!args) return interaction.send(Embed);
       else {
         let cmd =
