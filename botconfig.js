@@ -21,7 +21,7 @@ module.exports = {
     host: "lavalink.darrennathanael.com",
     port: 2095,
     pass: "whatwasthelastingyousaid", 
-    secure: false // Set this to true if you're self-hosting lavalink on replit.
+    secure: true // Set this to true if you're self-hosting lavalink on replit.
   },
 
   //Please go to https://developer.spotify.com/dashboard/
