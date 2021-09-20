@@ -3,8 +3,8 @@ module.exports = async (client) => {
   client.user.setPresence({
     status: "idle",  // You can show online, idle, and dnd
     activity: {
-        name: "-help, Naandooh 🎉",  // The message shown
-        type: "LISTENING", // PLAYING, WATCHING, LISTENING, STREAMING,
+        name: "Happy Birthday Nando 🎉",  // The message shown
+        type: "WATCHING", // PLAYING, WATCHING, LISTENING, STREAMING,
     }
 });
     client.Manager.init(client.user.id);
